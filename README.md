@@ -12,12 +12,12 @@
 - CSS
 
 ## Live Version 
-<a href="https://birthday-mo.netlify.app/" target="_blank" > Live version </a>
+<a href="https://menus-react-mo.netlify.app/" target="_blank" > Live version </a>
 
 ## Usage 
 
 ### Clone the project: 
- - git clone https://github.com/MouhaDiouf/birthday
+ - git clone https://github.com/MouhaDiouf/menus-react
  
  ### Run the project
  - To install the dependencies run the command : npm install 
@@ -43,7 +43,7 @@ You can also check <a href="https://mouhadiouf.com/" target="_blank"> my portfol
 
 ## Contributing
 
-1. Fork it (https://github.com/MouhaDiouf/birthday)
+1. Fork it (https://github.com/MouhaDiouf/menus-react)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'What this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen name])
