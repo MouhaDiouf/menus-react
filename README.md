@@ -26,7 +26,7 @@
 
 ## Description 
 
-This is a simple app that uses the React useState hook to display data. 
+This is a simple app that uses the React useState hook to display data. The user can filter menus based on the category.
 
 
 ## Developed by
